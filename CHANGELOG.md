@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v1.0.1...v1.0.2) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#4](https://github.com/dword-design/tester-plugin-babel-plugin/issues/4)) ([c64c40a](https://github.com/dword-design/tester-plugin-babel-plugin/commit/c64c40a6da07b9e297cd789159b7ef1d7ece6b9a))
+
 ## [1.0.1](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v1.0.0...v1.0.1) (2021-03-17)
 
 
