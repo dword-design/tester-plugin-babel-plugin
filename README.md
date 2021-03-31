@@ -64,7 +64,7 @@ $ yarn add @dword-design/tester-plugin-babel-plugin
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/tester-plugin-babel-plugin/issues) or [pull request](https://github.com/dword-design/tester-plugin-babel-plugin/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/tester-plugin-babel-plugin/issues) or a [pull request](https://github.com/dword-design/tester-plugin-babel-plugin/pulls)! ⚙️
 
 ## Support
 
