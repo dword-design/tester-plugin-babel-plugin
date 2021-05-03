@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v1.0.8...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#18](https://github.com/dword-design/tester-plugin-babel-plugin/issues/18)) ([25e5ca5](https://github.com/dword-design/tester-plugin-babel-plugin/commit/25e5ca5d98e8573061650b0e68681dca4bcc2d0c))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.8](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v1.0.7...v1.0.8) (2021-04-28)
 
 
