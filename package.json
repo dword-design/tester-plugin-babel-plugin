@@ -30,6 +30,9 @@
   "peerDependencies": {
     "expect": "^26.6.2"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "publishConfig": {
     "access": "public"
   }
