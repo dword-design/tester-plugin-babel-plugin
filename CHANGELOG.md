@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v2.0.3...v2.0.4) (2021-05-28)
+
+
+### Bug Fixes
+
+* update dependency expect to v27 ([357c7fc](https://github.com/dword-design/tester-plugin-babel-plugin/commit/357c7fcfa6500123fa0d79fedc676b64c86da866))
+
 ## [2.0.3](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v2.0.2...v2.0.3) (2021-05-28)
 
 
