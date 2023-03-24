@@ -1250,9 +1250,7 @@
     std-env "^2.3.0"
 
 "@dword-design/base@^8.0.0":
-  version "8.6.20"
-  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-8.6.20.tgz#17be36bf6a9c21d2920b04738f741f3f14bd8db9"
-  integrity sha512-uTmeqda6VWw/uvq3NbZC6xknPVn7dp12qqOduN9fUj1uwo/rPKkc5UlZN67FsFFFLHOigAzvFcW1d0d97udBFg==
+  version "8.7.6"
   dependencies:
     "@babel/core" "^7.6.4"
     "@babel/register" "^7.6.2"
