@@ -1,7 +1,7 @@
 import { endent } from '@dword-design/functions'
 import tester from '@dword-design/tester'
 
-import self from '.'
+import self from './index.js'
 
 export default tester(
   {
@@ -9,7 +9,6 @@ export default tester(
       from: '1 |> x => x * 2',
       to: endent`
         var _;
-        
         _ = 1, _ * 2;
       `,
     },
@@ -20,5 +19,5 @@ export default tester(
         ['@babel/plugin-proposal-pipeline-operator', { proposal: 'fsharp' }],
       ],
     }),
-  ]
+  ],
 )
