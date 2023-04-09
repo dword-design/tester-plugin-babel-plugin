@@ -1,6 +1,6 @@
 import { transform } from '@babel/core'
 import { property } from '@dword-design/functions'
-import expect from 'expect'
+import { expect } from 'expect'
 import P from 'path'
 
 export default options => ({
@@ -12,6 +12,6 @@ export default options => ({
         ...options,
       })
         |> await
-        |> property('code')
+        |> property('code'),
     ).toEqual(test.to),
 })
