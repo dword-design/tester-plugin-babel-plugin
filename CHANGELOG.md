@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v2.0.9...v3.0.0) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#76](https://github.com/dword-design/tester-plugin-babel-plugin/issues/76)) ([bbf25fa](https://github.com/dword-design/tester-plugin-babel-plugin/commit/bbf25fa90daebdec0462c42999b65ae1f5183969))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, move to esm
+
 ## [2.0.9](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v2.0.8...v2.0.9) (2022-01-12)
 
 
