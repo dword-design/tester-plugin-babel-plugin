@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v3.0.5...v3.0.6) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v9.5.16 ([855f3aa](https://github.com/dword-design/tester-plugin-babel-plugin/commit/855f3aaae1da47c754b67f8ce17bc5de3a80426e))
+
 ## [3.0.5](https://github.com/dword-design/tester-plugin-babel-plugin/compare/v3.0.4...v3.0.5) (2023-04-11)
 
 
