@@ -31,7 +31,7 @@
     "expect": "^29.5.0"
   },
   "peerDependencies": {
-    "expect": "^27.0.0"
+    "expect": "^29.0.0"
   },
   "engines": {
     "node": ">=14"
